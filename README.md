@@ -1,14 +1,13 @@
-# （海广兴）新材料包装科技有限公司推广方案
+# （海广兴）新材料包装科技有限公司
 
-## 一键打开自制网页
+## 企业官网
 
-<p align="center">
-  <a href="https://2rain75.github.io/fruit-packaging-service/haiguangxing.html">
-    <img src="https://img.shields.io/badge/点击打开-水果包装推广方案-17694d?style=for-the-badge" alt="点击打开自制网页">
-  </a>
-</p>
+[![一键打开企业官网](https://img.shields.io/badge/点击打开-海广兴企业官网-17694d?style=for-the-badge)](https://2rain75.github.io/fruit-packaging-service/haiguangxing-company.html)
 
-手机或电脑打开网页：
-[https://2rain75.github.io/fruit-packaging-service/haiguangxing.html](https://2rain75.github.io/fruit-packaging-service/haiguangxing.html)
+[打开企业官网 →](https://2rain75.github.io/fruit-packaging-service/haiguangxing-company.html)
 
-该网页由 GitHub Pages 发布，可直接分享链接访问。
+## 水果包装推广方案
+
+[查看产品服务推广方案 →](https://2rain75.github.io/fruit-packaging-service/haiguangxing.html)
+
+企业官网框架与推广方案均由 GitHub Pages 发布，可直接在手机或电脑浏览。
